@@ -23,5 +23,5 @@ Backend: Node.js, PHP, Python (Django/Flask), or Java (Spring Boot).
 
 Database: MySQL, PostgreSQL, MongoDB
 
-# contribution:
+# Contribution:
 https://github.com/jeevithasr26
